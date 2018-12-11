@@ -1,0 +1,13 @@
+!!python/object:__main__.DataGraph
+_adj: &id001 {}
+_node: {}
+_pred: {}
+_succ: *id001
+adjlist_inner_dict_factory: &id002 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id002
+edge_attr_dict_factory: *id002
+edge_key_dict_factory: *id002
+graph:
+  apple: 3
+  data: {}
+node_dict_factory: *id002
